@@ -86,13 +86,3 @@ We made an Android App using Android Studio (JAVA and XML).
 <img src="https://user-images.githubusercontent.com/72293452/148665401-3c6190ff-bea4-4c66-9286-a40c149ab3b6.png" width="200">
 </div>
 <img src="https://user-images.githubusercontent.com/72293452/148665403-d10ef9af-c53c-488c-a137-9a5fc8e516fb.png" width="200">
-
-
-## Developers
-
-- Hrithik Purwar - https://github.com/hrithikpurwar/
-- Raehat Singh Nanda - https://github.com/raehat/
-
-
-
-
